@@ -108,7 +108,7 @@ https://chostv.mobie.in/choos/sports/matchqy2.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZnW0Qhjd/1622265593-Rifky-sport.png",Rusia 3 th
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" group-title="SPORTS PLUS 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png",TNT SPORT WORLD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png",TNT SPORT WORLD
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 
 #EXTINF:-1 group-title="SPORTS",IT | SKY SPORT 24
