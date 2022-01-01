@@ -1,0 +1,31 @@
+// CONTOH #EXTINF:-1 tvg-logo="https://i.ibb.co/HhwLP6D/MOVIES.jpg" group-title="MOVIES", THE MOVIE
+// CONTOH http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+//KNOWLEDGE
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/tzmwLsj/Biznet-Adventure.png",Bisnet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5_monde_asie.png",TV5 Monde AsiA
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/bloomberg-TV-Asia.jpg",Bloomberg HD
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/1000?cb= 20170701154034",NAT GEO
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/1000?cb= 20180903172554",NAT GEO WILD
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1920px-New_NatGeo_People_logo.svg.png",NAT GEO PEOPLE
+http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png.png",Saluran Penemuan
+http://topwin-tv.my.id/2/master.m3u8?id=disco
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",DOKUMEN CGTN
+http://210.210.155.35/session/68492616-b048-11ea-be19-8064b1f0e124/qwr9ew/s/s20/02.m3u8

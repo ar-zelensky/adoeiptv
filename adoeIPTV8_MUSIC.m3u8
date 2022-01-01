@@ -1,0 +1,21 @@
+// CONTOH #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/HhwLP6D/MOVIES.jpg" group-title="MOVIES", THE MOVIE
+// CONTOH http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+//MUSIC
+
+
+
+#EXTINF:-1 group-title="MUSIC" group-title="MUSIC",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" ,Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" ,Pop Musik
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" ,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 group-title="MUSIC" ,Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8

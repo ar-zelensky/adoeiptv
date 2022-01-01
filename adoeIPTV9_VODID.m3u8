@@ -1,0 +1,138 @@
+// CONTOH #EXTINF:-1 tvg-logo="https://i.ibb.co/HhwLP6D/MOVIES.jpg" group-title="MOVIES", THE MOVIE
+// CONTOH http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+//MOVIES
+
+#EXTINF:-1 group-title="VOD INDONESIA",Chinese Ghost Story 3: The Enchanting Phantom (2020)
+http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Are We in Love? (2020)
+http://srv33.nf21.net/files/15-2020-05-30-1fe64e22cfd23e4c3c1a0cbb982b4c83.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",The One
+http://srv36.nf21.net/files/15-2020-06-01-4435fb82d4a8747e71bffb2847fc8dcd.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Cek Toko Sebelah (2016)
+http://srv18.nf21.net/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",My Stupid Bos (2016)
+http://srv18.nf21.net/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Naga Bonar Jadi 2 (2007)
+http://srv18.nf21.net/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Galih Dan Ratna (2017)
+http://srv18.nf21.net/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Suatu Hari Nanti (2017)
+http://srv18.nf21.net/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Benyamin Biang Kerok (2018)
+http://srv19.nf21.net/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Partikelir (2018)
+http://srv19.nf21.net/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",London Love Story 3 (2018)
+http://srv19.nf21.net/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Revan & Reina (2018)
+http://srv19.nf21.net/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Flight 555 (2018)
+http://srv19.nf21.net/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Insya Allah Sah 2 (2018)
+http://srv24.nf21.net/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Bodyguard Ugal-Ugalan (2018)
+http://srv24.nf21.net/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Terbang: Menembus Langit (2018)
+http://srv28.nf21.net/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Hanum & Rangga: Faith & The City (2018)
+http://srv28.nf21.net/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Rompis (2018)
+http://srv28.nf21.net/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Bajaj Bajuri: The Movie (2014)
+http://srv28.nf21.net/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Sepatu Dahlan (2014)
+http://srv28.nf21.net/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",SESAT (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959916
+
+#EXTINF:-1 group-title="VOD INDONESIA",The Secret Suster Ngesot Urban Legend (2018)
+http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
+
+#EXTINF:-1 group-title="VOD INDONESIA",Rumput Tetangga (2019)
+https://dl.dropboxusercontent.com/s/spmmhz8vtd02wko/Nonton%20Film%20Rumput%20Tetangga%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
+
+#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://i.ibb.co/zFX1KSS/ari.jpg",Arini (2018)
+http://srv19.nf21.net/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://i.ibb.co/xq1ZVQJ/alaspati-rev20april.jpg",Alas Pati (2018)
+http://srv21.nf21.net/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://i.ibb.co/541J8YD/lorong.jpg",Lorong (2019)
+https://dl.dropboxusercontent.com/s/54ju0mn1gl2t8bh/Nonton%20Film%20Lorong%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
+
+#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://i.ibb.co/682ypgM/5-Cowok-Jagoan-2017.jpg",5 Cowok Jagoan (2017)
+http://srv18.nf21.net/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
+
+#EXTINF:-1 group-title="VOD INDONESIA",Bodyguard Ugal-Ugalan (2018)
+http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Hanum & Rangga: Faith & The City (2018)
+http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Bajaj Bajuri: The Movie (2014)
+http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Terbang: Menembus Langit (2018)
+http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Insya Allah Sah 2 (2018)
+http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Alas Pati (2018)
+http://srv21.nf21.net:80/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Rompis (2018)
+http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Arini (2018)
+http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Benyamin Biang Kerok (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",London Love Story 3 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",My Stupid Bos (2016)
+http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Revan & Reina (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Partikelir (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Flight 555 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Suatu Hari Nanti (2017)
+http://srv18.nf21.net:80/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",5 Cowok Jagoan (2017)
+http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Cek Toko Sebelah (2016)
+http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Naga Bonar Jadi 2 (2007)
+http://srv18.nf21.net:80/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Galih Dan Ratna (2017)
+http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Sepatu Dahlan (2014)
+http://srv28.nf21.net:80/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
+#EXTINF:-1 group-title="VOD INDONESIA",Lorong (2019)
+https://dl.dropbox.com/s/54ju0mn1gl2t8bh/Nonton Film Lorong (2019) Ganool Movie Lk21 Indoxx1 Subtitle Indonesia Streaming Download - PlanetFilm21.mp4?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Rumput Tetangga (2019)
+https://dl.dropbox.com/s/spmmhz8vtd02wko/Nonton Film Rumput Tetangga (2019) Ganool Movie Lk21 Indoxx1 Subtitle Indonesia Streaming Download - PlanetFilm21.mp4?dl=0

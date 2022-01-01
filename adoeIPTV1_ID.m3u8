@@ -119,9 +119,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_big.png?v=2.0.0.13" group-title="TV INDONESIA (VIDIO&USEETV)", nhk world Japan _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvnmovies_big.png" group-title="@RIYANCODAY, TVN Movies 
-https://cdnmdc1.useetv.com/dass/133/tvnmovies_dash/manifest_wuseetv.mpd?encp=2gozsxwlJOIYvVx7w8cp2w&uid=&expp=1641003859
-
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="TV INDONESIA (VIDIO&USEETV)", Prambors _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 
@@ -173,4 +170,224 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="TV INDONESIA (VIDIO&USEETV)", Rodja TV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
 
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,INDOSIAR
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,TRANSTV
+http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,KOMPASTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,TVONE
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,METROTV
+http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,NETTV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,RTV
+http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,TVRI
+http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,DAAITV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,ELSHINTATV
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,QURANTV
+http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,SUNAHTV
+http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,RODJATV
+http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)"tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png",TVRI-Alternatif
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)"tvg-logo="https://www.chillglobal.com/images/channels/viasat-Alternatif-1432658408.jpg",Viasat-Alternatif
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)"tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13",CNN-Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)"tvg-logo="https://images.useetv.com/logo_cnbcid_small.png",CNBC-Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)"tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png",Global TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",ANTV 1
+http://chostv.mobie.in/files/iptv/antv.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://thumbs2.imgbox.com/ec/c0/UnXb8cVm_t.jpg",Ruang Trampil USEETV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://imgpile.com/images/ucVpEC.png",Usee Photo_USEETV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://thumbs2.imgbox.com/e6/df/CbKiUGQb_t.png",Usee Prime USEETV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="http://kamiselaluada.com/img/nasatv.png",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png",JITV Jogjakarta
+http://202.169.224.76:1935/tv/jitv/chunklist_w1644101270.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="http://kamiselaluada.com/img/cnnindo.png",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rri-net-id.png",RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",Metro TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.lyngsat-stream.com/logo/tv/bb/berita-satu-world-id.png",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.imgur.com/AhAy58i.png",BAYU TV [nganjuk]
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png",BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.imgur.com/305Uxpi.png",Cahaya Banten TV
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.imgur.com/305Uxpi.png",Cahaya Banten TV
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/kgrCRbft/desa-tv.png",DESA TV
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png",JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/sDbjP8Dx/JEK-TV.png",JekTv Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png",Lombok TV
+http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/5N6Xy5WL/PRIMA-TV.png",PRIMA TV
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png",Riau TV
+http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.imgur.com/rNkGFjI.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/XvK62mFS/Transtv.png",TRANS TV
+http://rr3.dens.tv/s/s72/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/636gM3tn/Indosiar.png",INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/Qtthns39/ANTV.png",ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13",RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/yYdPvbtJ/TVONE.png",TVOne
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13",Kompas TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/7L51zWGx/logo.jpg",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cHrs0fbk/JG.jpg",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/nrqmfDgX/jitv-logo.png",JITV Yogyakarta
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/brm6VcqJ/aditv-logo.png",ADI TV Yogyakarta
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/fWvrcBMF/Banten-tv.png",Banten TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13",BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13",JAK TV Jakarta
+http://rr3.dens.tv/s/s46/index.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/BQbRb1RR/Bandung-Tv.png",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/ZKQ2d5Sn/Bayu-TV.png",Bayu TV Nganjuk
+http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/XYSFM1X7/nusantara-tv.png",Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" tvg-logo="https://i.postimg.cc/DwJC6MHv/Sakti-tv.png",Sakti TV Madiun
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)",Radar TV Lampung
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)",Kawanua TV Manado
+http://122.248.43.138:1935/ch18/myStream/live.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)",RCTV
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)",RTV
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,Wesal tv
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,Muadz tv
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA (VIDIO&USEETV)" ,Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
