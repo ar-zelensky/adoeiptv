@@ -1,7 +1,7 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="TV INDONESIA" ,INDOSIAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="TV INDONESIA" ,INDOSIAR
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="TV INDONESIA" ,TRANS TV
 http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8
