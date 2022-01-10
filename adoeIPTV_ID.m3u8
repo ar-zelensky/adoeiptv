@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="TV INDONESIA" ,INDOSIAR
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="TV INDONESIA" ,TRANS TV
-http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/08/873008581.jpg" group-title="TV INDONESIA" ,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1351259511_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="TV INDONESIA" ,SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="TV INDONESIA" ,TRANS 7
