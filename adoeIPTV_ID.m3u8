@@ -36,7 +36,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b3840
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" group-title="TV INDONESIA" ,CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="TV INDONESIA" ,GLOBAL TV
-http://202.80.222.174:80/000001/2/ch00000090990000001784/1002.m3u8?IASHttpSessionId=SLB3758202201101457001009999&ztecid=ch00000090990000001784&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001784&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDMvMTAyNC5tM3U4&zte_bandwidth=1002&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+https://raw.githubusercontent.com/adoerahman/ID_TV/main/GTV
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="TV INDONESIA" ,RUANG TAMPIL USEE TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/e6/df/CbKiUGQb_t.png" group-title="TV INDONESIA" ,USEE PRIME USEE TV
