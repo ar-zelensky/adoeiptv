@@ -123,14 +123,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI PAPUPA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
-#EXTINF:-1 tvg-logo="https://bdg-indihome.com/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil-HD.png" group-title="TV INDONESIA" ,RUANG TRAMPIL USEE TV
-https://cdnmdc1.useetv.com/joss/133/useeinfo/chunklist_w561252230_b1344100_sleng.m3u8?enc=htZ-2DNcCgUveQdmY6YP6g&uid=NDVmZWE0NmM5ZTg0ODI5ZTczMjQ2YmZhOGE2MzYwM2Y=&exp=1642065410
-#EXTINF:-1 tvg-logo="https://bdg-indihome.com/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTOHD.png" group-title="TV INDONESIA" ,USEE PHOTO USEE TV
-https://cdngb196.useetv.com/joss/133/useephoto/chunklist_w263958846_b1344100_sleng.m3u8?enc=OVB1MP2BqKyZJmMEhi9lOw&uid=NDVmZWE0NmM5ZTg0ODI5ZTczMjQ2YmZhOGE2MzYwM2Y=&exp=1642067779
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeprime.png" group-title="TV INDONESIA" ,USEE PRIME USEE TV
-https://cdngb196.useetv.com/joss/133/useeprime1080new/chunklist_w1971562747_b1544100_sleng.m3u8?enc=9e3d5BGKqR3NPTx2F8mDUQ&uid=NDVmZWE0NmM5ZTg0ODI5ZTczMjQ2YmZhOGE2MzYwM2Y=&exp=1642067810
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cOsaU_AzAnw/maxresdefault.jpg" group-title="TV INDONESIA" ,INDIHOME SHOPING USEE TV
-https://cdngb196.useetv.com/joss/130/indishopping/chunklist_w603364871_b684100_sleng.m3u8?enc=q3NEQm2xSy4bIjBekyD2fw&uid=NDVmZWE0NmM5ZTg0ODI5ZTczMjQ2YmZhOGE2MzYwM2Y=&exp=1642067931
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/265-2659271_logo-kompas-di-layar-kaca-1024x300-kompas-tv.png" group-title="TV INDONESIA" ,KOMPAS TV USEE TV
 https://cdn13jtedge.useetv.com/joss/133/kompastv/chunklist_w1349555950_b684100_sleng.m3u8?enc=ChXui02UpjMXc39PbM0B_w&uid=NDVmZWE0NmM5ZTg0ODI5ZTczMjQ2YmZhOGE2MzYwM2Y=&exp=1642075641
 #EXTINF:-1 tvg-logo="https://assets.kompasiana.com/items/album/2019/09/02/metro-tv-indonesia-logo-5d6d1a690d823061a66bf102.jpg" group-title="TV INDONESIA" ,METRO TV USEE TV
