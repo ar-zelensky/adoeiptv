@@ -33,12 +33,12 @@ http://iptv.tvmalaysia.cc:80/174726/174726/7225
 http://iptv.tvmalaysia.cc:80/174726/174726/7229
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/s640/celestial%2Bclassic%2Bmovies.jpeg" group-title="TV MOVIES" ,CELESTIAL CLASSIC (MY)
 http://iptv.tvmalaysia.cc:80/174726/174726/7222
-#EXTINF:-1 tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/393-300.png" group-title="TV MOVIES" ,SONY ONE (MY)
-http://iptv.tvmalaysia.cc:80/174726/174726/8863
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1d/Star_Kids_%26_Family_2021.svg/revision/latest/scale-to-width-down/1000?cb=20210306235334" group-title="TV MOVIES" ,STARZ KIDS & FAMILY (MY)
-http://iptv.tvmalaysia.cc:80/174726/174726/8991
-#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg" group-title="TV MOVIES" ,MOVIES NOW (MY)
-http://iptv.tvmalaysia.cc:80/174726/174726/8999
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="TV MOVIES" ,CRIME & INVESTIGATION (MY)
 http://iptv.tvmalaysia.cc:80/174726/174726/9009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png" group-title="TV MOVIES" ,FOX FAMILY MOVIES (MY)
@@ -57,8 +57,8 @@ http://iptv.tvmalaysia.cc:80/174726/174726/6839
 http://iptv.tvmalaysia.cc:80/174726/174726/7071
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yoVlMr0ghihOoyLPLJlHVBP_JjQ=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/188288/celestial-movies-c82bbb.JPG" group-title="TV MOVIES" ,CELESTIAL MOVIES (MY)
 http://iptv.tvmalaysia.cc:80/174726/174726/7235
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/AstroWahLaiToihdlogo.jpg" group-title="TV MOVIES" ,WLT JADE (MY)
-http://iptv.tvmalaysia.cc:80/174726/174726/8836
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="TV MOVIES" ,STAR MOVIES (MY)
 http://iptv.tvmalaysia.cc:80/174726/174726/8997
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhwLP6D/MOVIES.jpg" group-title="TV MOVIES" ,THE MOVIE
@@ -73,8 +73,8 @@ http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/tvn_movies.png" group-title="TV MOVIES" ,TVN MOVIES
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yoVlMr0ghihOoyLPLJlHVBP_JjQ=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/188288/celestial-movies-c82bbb.JPG" group-title="TV MOVIES" ,CELESTIAL MOVIES
-http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="TV MOVIES" ,CINEMA WORLD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="TV MOVIES" ,AXN
@@ -99,8 +99,8 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="TV MOVIES" ,CINEMAX
 https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="TV MOVIES" ,RED BY HBO
-https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png" group-title="TV MOVIES" ,FOX ACTION  MOVIES
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBLz5uTivibImSPpLJLVC5ls-cWiT8sqQ-ErlSY9Xa3so5vNiV_d4ubhb2BY4MDIUmarM&usqp=CAU" group-title="TV MOVIES" ,MOVIES GROUP 1
@@ -109,16 +109,16 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBLz5uTivibImSPpLJLVC5ls-cWiT8sqQ-ErlSY9Xa3so5vNiV_d4ubhb2BY4MDIUmarM&usqp=CAU" group-title="TV MOVIES" ,MOVIES GROUP 3
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg" group-title="TV MOVIES" ,BFLIX MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://blackcinema.blackxperience.com/image/logo.png" group-title="TV MOVIES" ,BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA" group-title="TV MOVIES" ,MAHAMOVIE
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="TV MOVIES" ,HITS 2
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="TV MOVIES" ,AXN 2
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="TV MOVIES" ,CINEMA WORLD 
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png" group-title="TV MOVIES" ,BLUE ANT ENTERTAINMENT
@@ -137,11 +137,17 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94227aaf38b4460f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV MOVIES" ,HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="TV MOVIES" ,FILM SURGAWI
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="TV MOVIES" ,THRILL
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1608452.png" group-title="TV MOVIES" ,DUBAI MOVIE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="TV MOVIES" ,STAR MOVIES 
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zv2bGpkv/download-74.png" group-title="TV MOVIES" ,AYJAL TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="TV MOVIES" ,AVA FAMILY
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="TV MOVIES" ,AVA SERIES
+http://51.210.199.4/hls/stream.m3u8

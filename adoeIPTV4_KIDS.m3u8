@@ -1,37 +1,25 @@
-// CONTOH #EXTINF:-1 tvg-logo="https://i.ibb.co/HhwLP6D/MOVIES.jpg" group-title="MOVIES", THE MOVIE
-// CONTOH http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-T
-//KIDS
 
-#EXTINF:-1 group-title="Kids",MYKIDZ
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/f8d20d654489d688e94f200b60963d31.png" group-title="KIDS" ,KIDZ
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS" ,MY KIDZ
 http://playlist.urfan.web.id/uq2663/h/h98/index.m3u8
-
-#EXTINF:-1 group-title="Kids",ANIMAX
-http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 group-title="Kids",ANIPLUS
-http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",animasi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="KIDS" ,ANIMAX
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png",Aniplus
-http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 group-title="Kids" ,CBEBIES
-https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-
-#EXTINF:-1 group-title="Kids" , KIDS CHANELL
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-#EXTINF:-1 group-title="Kids" ,MIAOMI
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
-
-#EXTINF:-1 group-title="Kids" ,Cartoon Club
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior
-http://bit.ly/NickJr360p
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png",Aniplus
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506915616_aniplus-artcard.jpg" group-title="KIDS" ,ANIPLUS
 http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg" group-title="KIDS" ,CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/99/333/png-clipart-nickelodeon-junior-television-channel-nick-jr-nick-jr.png" group-title="KIDS" ,NICKLODEON JUNIOR
+http://bit.ly/NickJr360p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsHq0tSf/download-62.png" group-title="KIDS" ,ATX
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYVfNrTF/download-2021-09-13-T075239-257.png" group-title="KIDS" ,EGG NETWORK
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8

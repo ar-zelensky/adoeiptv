@@ -1,55 +1,41 @@
-// CONTOH #EXTINF:-1 tvg-logo="https://i.ibb.co/HhwLP6D/MOVIES.jpg" group-title="MOVIES", THE MOVIE
-// CONTOH http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-//MOVIES
 
-#EXTINF:-1 group-title="NEWS",BLOOMBERG
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/fa89bf849a67950fcad90.png" group-title="NEWS" ,BLOOMBERG
 http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",CNA
+#EXTINF:-1 tvg-logo="https://www.nextlifebook.com/estate-planning/wp-content/uploads/2020/05/channelnewsasia.png" group-title="NEWS" ,CNA
 http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",NHKWORLD
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/30/4d/b1304daa-a5a7-3a13-861f-724341848662/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="NEWS" ,NHK WORLD
 http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",ALJAZEERAWORLD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png" group-title="NEWS" ,ALJAZEERA WORLD
 http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",TRTWORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="NEWS" ,TRT WORLD
 http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="NEWS",WION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="NEWS" ,WION
 http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="NEWS",UA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/uk/thumb/d/d8/Logo_uatv.svg/1200px-Logo_uatv.svg.png" group-title="NEWS" ,UA
 http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="NEWS",ALJAZEERA
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png" group-title="NEWS" ,ALJAZEERA
 http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",CCTV4
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/CCTV4.png" group-title="NEWS" ,CCTV4
 http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",FRANCE24
+#EXTINF:-1 tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="NEWS" ,FRANCE24
 http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",TV5MONDE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/800px-TV5MONDE_logo.png" group-title="NEWS" ,TV5 MONDE
 http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",DW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS" ,DW
 http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
-
-#EXTINF:-1 group-title="NEWS",CGTNDOCUMENTARY
-http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png",Al-Jazeera EN [1080p Backup]
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News CH515
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org//tv-logo/cn-cgtn-documentary-3191.jpg" group-title="NEWS" ,CGTN DOCUMENTARY
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News [Guna VPN]
-http://210.210.155.35/uq2663/h/h29/01.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://telegra.ph/file/fa89bf849a67950fcad90.png",Bloomberg News [Guna VPN] CH519
-http://210.210.155.35/uq2663/h/h03/index1.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png" group-title="NEWS" ,CHINA NEWS
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="NEWS" ,LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dthkh4TN/download-2021-09-08-T040946-637.png" group-title="NEWS" ,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="NEWS" ,SMITHSONIAN
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="NEWS" ,SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" group-title="NEWS" ,NHK WORLD JAPAN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
