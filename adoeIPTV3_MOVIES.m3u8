@@ -76,7 +76,7 @@ http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="TV MOVIES" ,CINEMA WORLD
-http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+http://iptv.tvmalaysia.cc:80/174726/174726/7235
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="TV MOVIES" ,AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" group-title="TV MOVIES" ,KIX
@@ -96,7 +96,7 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/83/830a24e3e253625edff8233b668520ae.jpeg" group-title="TV MOVIES" ,KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/dwn/5/download-logo-hbo.jpg" group-title="TV MOVIES" ,HBO
-https://gratismkctv.net/film/hbo.m3u8
+http://iptv.tvmalaysia.cc:80/174726/174726/7067
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="TV MOVIES" ,CINEMAX
 https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
 
@@ -151,5 +151,7 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="TV MOVIES" ,AVA SERIES
 http://51.210.199.4/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" group-title="NEWS" ,NHK WORLD JAPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" group-title="TV MOVIES" ,NHK WORLD JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="TV MOVIES" ,COLORS HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6769

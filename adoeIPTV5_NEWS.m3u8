@@ -37,3 +37,5 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="NEWS" ,SONY GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJGKORi.png" group-title="NEWS" ,HI INDO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
