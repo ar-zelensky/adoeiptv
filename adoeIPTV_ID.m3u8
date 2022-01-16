@@ -125,3 +125,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI PAPUPA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" group-title="TV INDONESIA" ,RCTI
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV INDONESIA" ,MNC TV
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/1200px-INews_TV_logo.svg.png" group-title="TV INDONESIA" ,INEWS
+https://liveevent5.rctiplus.id/liveevent/livechat4_master.m3u8?auth_key=1647416845-0-0-ac42dbd024eb9b1704eb771f9ff35f4f
