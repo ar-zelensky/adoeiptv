@@ -20,11 +20,11 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/wesaltv.png" group-title="TV RELIGI" ,WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png" group-title="TV RELIGI" ,AL QURAN AL KAREEM
-https://youtu.be/OPPPrM179F4
+https://youtu.be/OPPPrM179F4.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="TV RELIGI" ,AL SUNNAH NABAWI
-https://youtu.be/4GCH7_Gj0ro
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/fatwatv.png" group-title="TV RELIGI" ,FATWA TV
-https://www.youtube.com/embed/live_stream?channel=UCWcErqFw28UlHluawiWLO2g
+https://youtu.be/4GCH7_Gj0ro.m3u8
+//#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/fatwatv.png" group-title="TV RELIGI" ,FATWA TV
+//https://www.youtube.com/embed/live_stream?channel=UCWcErqFw28UlHluawiWLO2g
 #EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png" group-title="TV RELIGI" ,BIN BAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiokitatv.png" group-title="TV RELIGI" ,RADIO KITA TV
