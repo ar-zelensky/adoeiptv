@@ -12,7 +12,7 @@ http://iptv.tvmalaysia.cc:80/174726/174726/6713
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Astro_Rania.png" group-title="TV MALAYSIA" ,ASTRO RANIA 
 http://iptv.tvmalaysia.cc:80/174726/174726/6729
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_awani.png" group-title="TV MALAYSIA" ,ASTRO AWANI
-http://iptv.tvmalaysia.cc:80/174726/174726/6714
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Astro_Ceria_%282D%29.png" group-title="TV MALAYSIA" ,ASTRO CERIA
 http://iptv.tvmalaysia.cc:80/174726/174726/6715
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png" group-title="TV MALAYSIA" ,ASTRO COLOR TAMIL
@@ -26,9 +26,9 @@ http://iptv.tvmalaysia.cc:80/174726/174726/6802
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png" group-title="TV MALAYSIA" ,BERNAMA NEWS
 http://iptv.tvmalaysia.cc:80/174726/174726/6750
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/RTM_TV1.png/220px-RTM_TV1.png" group-title="TV MALAYSIA" ,TV 1
-http://iptv.tvmalaysia.cc:80/174726/174726/7177
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/PlayerLogo-TV2-May2021-preview.png" group-title="TV MALAYSIA" ,TV 2
-http://iptv.tvmalaysia.cc:80/174726/174726/7178
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/800px-TV3_%28Malaysia%29.svg.png" group-title="TV MALAYSIA" ,TV 3
 http://iptv.tvmalaysia.cc:80/174726/174726/8750
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/187/471/png-transparent-pdf-logo-hgtv-television-cdr-text-line-area-angle.png" group-title="TV MALAYSIA" ,HGTV
@@ -63,3 +63,9 @@ http://iptv.tvmalaysia.cc:80/174726/174726/7169
 https://agSplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4rvdLkt/download-2021-09-06-T052009-077.jpg" group-title="TV MALAYSIA" ,TVS
 http://iptv.tvmalaysia.cc:80/297340/297340/9016
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="TV MALAYSIA" ,OKEY TV
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02-720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="TV MALAYSIA" ,TV 6
+https://rtmlive07.secureswiftcontent.com/rtmchannel/07-720.m3u8
+#EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="TV MALAYSIA" ,TV SELANGOR
+https://youtu.be/2RRvXx79Rv8
