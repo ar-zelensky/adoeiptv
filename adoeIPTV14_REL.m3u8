@@ -13,15 +13,31 @@ https://h1.intechmedia.net/intech/ch9.m3u8
 https://tv.rodja.live/tasik/mgitv/index.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/muadztv.png" group-title="TV RELIGI" ,MUADZ TV
 https://h1.intechmedia.net/intech/ch5.m3u8
-//#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png" group-title="TV RELIGI" ,IZZAH TV
-//https://streaming.sigraduta.co.id/izzahtv.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png" group-title="TV RELIGI" ,IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
 //#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png" group-title="TV RELIGI" ,IZZAH TV 2
 //https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/wesaltv.png" group-title="TV RELIGI" ,WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png" group-title="TV RELIGI" ,AL QURAN AL KAREEM
-http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+https://youtu.be/OPPPrM179F4
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="TV RELIGI" ,AL SUNNAH NABAWI
-http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+https://youtu.be/4GCH7_Gj0ro
 #EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/fatwatv.png" group-title="TV RELIGI" ,FATWA TV
 https://www.youtube.com/embed/live_stream?channel=UCWcErqFw28UlHluawiWLO2g
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png" group-title="TV RELIGI" ,BIN BAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiokitatv.png" group-title="TV RELIGI" ,RADIO KITA TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/ashiiltv.png" group-title="TV RELIGI" ,ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/niagatv.png" group-title="TV RELIGI" ,NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+//#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/alimantv.png" group-title="TV RELIGI" ,AL IMAN TV
+//https://h1.intechmedia.net/intech/ch9.m3u8
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/salamtv.png" group-title="TV RELIGI" ,SALAM TV
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/mgitv.png" group-title="TV RELIGI" ,MG TV
+https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/insantv.png" group-title="TV RELIGI" ,INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
