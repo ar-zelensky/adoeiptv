@@ -130,7 +130,7 @@ https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV INDONESIA" ,MNC TV
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/1200px-INews_TV_logo.svg.png" group-title="TV INDONESIA" ,INEWS
-https://liveevent5.rctiplus.id/liveevent/livechat4_master.m3u8?auth_key=1647416845-0-0-ac42dbd024eb9b1704eb771f9ff35f4f
+https://d25tjwq1t7aw0m.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 #EXTINF:-1 tvg-logo="http://tv.upi.edu/wp-content/uploads/2021/01/tvupi-logo.png" group-title="TV INDONESIA" ,UPI TV
 http://wowza60.indostreamserver.com:1935/tvupidigital/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="TV INDONESIA" ,IDX CHANEL
