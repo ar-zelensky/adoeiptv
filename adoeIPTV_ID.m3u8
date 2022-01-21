@@ -16,7 +16,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="TV INDONESIA" ,TV ONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13" group-title="TV INDONESIA" ,METRO TV
-https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS8RD_B1IxSysRkWOeTG6TEI)/dm/3/x75p70w/d/live-2.m3u8
+https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_DIE_qZTXbCsrZZLgckmCY)/dm/3/x75p70w/d/live-3.m3u8#cell=lsg1
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2019/08/09/d6d20d52-0436-4799-a651-ea0f61d5e893_169.jpeg?w=715&q=90" group-title="TV INDONESIA" ,NET TV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/My9mYFmho6-FO2QdNmslYUbEH7k=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="TV INDONESIA" ,RTV
@@ -137,3 +137,5 @@ http://wowza60.indostreamserver.com:1935/tvupidigital/live/playlist.m3u8
 https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/idxchannel.m3u8
 #EXTINF:-1 tvg-logo="https://ochanneltv.com/site/uploads/logo/5b14d10983313-logo.png" group-title="TV INDONESIA" ,O CHANEL
 https://etslive-2-vidio-com.akamaized.net/exp=1642759812~acl=/hls-p/ingest_206_*/*~hmac=02a29e3caa1330213c67b7a75503fb5ff5e858b2e4ef640ba2087f8e5734605b/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/Metro-Globe-Network-TV.jpg" group-title="TV INDONESIA" ,METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
