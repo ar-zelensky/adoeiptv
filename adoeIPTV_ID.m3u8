@@ -138,5 +138,5 @@ https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/idxchannel.m3u8
 #EXTINF:-1 tvg-logo="https://ochanneltv.com/site/uploads/logo/5b14d10983313-logo.png" group-title="TV INDONESIA" ,O CHANEL
 https://etslive-2-vidio-com.akamaized.net/exp=1642759812~acl=/hls-p/ingest_206_*/*~hmac=02a29e3caa1330213c67b7a75503fb5ff5e858b2e4ef640ba2087f8e5734605b/hls-p/ingest_206_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/Metro-Globe-Network-TV.jpg" group-title="TV INDONESIA" ,METRO GLOBE NETWORK
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8862e92a-5864-4405-8aaf-d7e5c7ddce35)/master.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8862e92a-5864-4405-8aaf-d7e5c7ddce35)/index.m3u8
 //https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
