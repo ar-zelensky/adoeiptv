@@ -71,5 +71,7 @@ https://rtmlive07.secureswiftcontent.com/rtmchannel/07-720.m3u8
 https://youtu.be/2RRvXx79Rv8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="TV MALAYSIA" ,TV 9
 http://iptv.tvmalaysia.cc:80/174726/174726/7185
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="TV BRUNEI" ,RTB SUKEMA INDRA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="TV MALAYSIA" ,RTB SUKEMA INDRA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="TV MALAYSIA" ,RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
