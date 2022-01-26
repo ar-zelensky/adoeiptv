@@ -140,14 +140,14 @@ https://etslive-2-vidio-com.akamaized.net/exp=1642759812~acl=/hls-p/ingest_206_*
 #EXTINF:-1 tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/Metro-Globe-Network-TV.jpg" group-title="TV INDONESIA" ,METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1,ES012:Calle 13 HD
+#EXTINF:-1 group-title="TV INDONESIA" ,ES012:Calle 13 HD
 http://mli03.wanicelife.com:8880/SWFAF122708/C7TE87HX/2592
 
-#EXTINF:-1,ES070:TNT HD
+#EXTINF:-1 group-title="TV INDONESIA" ,ES070:TNT HD
 http://mli03.wanicelife.com:8880/SWFAF122708/C7TE87HX/2534
 
-#EXTINF:-1,ES043:Fox HD
+#EXTINF:-1 group-title="TV INDONESIA" ,ES043:Fox HD
 http://mli03.wanicelife.com:8880/SWFAF122708/C7TE87HX/2561
 
-#EXTINF:-1,ES044:Fox Life HD
+#EXTINF:-1 group-title="TV INDONESIA" ,ES044:Fox Life HD
 http://mli03.wanicelife.com:8880/SWFAF122708/C7TE87HX/2560
