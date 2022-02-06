@@ -24,9 +24,9 @@ http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/800px-TV5MONDE_logo.png" group-title="NEWS" ,TV5 MONDE
 http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS" ,DW
-http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org//tv-logo/cn-cgtn-documentary-3191.jpg" group-title="NEWS" ,CGTN DOCUMENTARY
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://live-stream.cgtn.com/event-live/CGTN_1_17puITIvbRm/index.m3u8
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png" group-title="NEWS" ,CHINA NEWS
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="NEWS" ,LOVE NATURE
