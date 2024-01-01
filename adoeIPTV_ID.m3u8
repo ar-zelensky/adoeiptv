@@ -87,44 +87,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwJC6MHv/Sakti-tv.png" group-title="TV INDONESIA" ,SAKTI TV MADIUN
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI JAWA BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI JAWA TENGAH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI JAWA TIMUR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI YOGYAKARTA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI BALI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI NUSA TENGGARA BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI NUSA TENGGARA TIMUR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI KALIMANTAN BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI KALIMANTAN TENGAH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI KALIMANTAN TIMUR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI KALIMANTAN SELATAN 
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI SULAWESI SELATAN
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI SULAWESI BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI SULAWESI TENGGARA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI SULAWESI TENGAH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI SULAWESI UTARA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI GORONTALO
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI MALUKU
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kD4v2TVtIKM/XJ_pfiRMk-I/AAAAAAAAIig/ZfMUN39o9PIumJzNfhRZUAC4ZjLuDlciwCLcBGAs/s1600/logo%2Bbaru%2Btvri.png" group-title="TV INDONESIA" ,TVRI PAPUPA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" group-title="TV INDONESIA" ,RCTI
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV INDONESIA" ,MNC TV
